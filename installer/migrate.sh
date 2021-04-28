@@ -1,0 +1,1 @@
+docker exec -it aidoop-r-khinfo npm run migration -- --mode=production

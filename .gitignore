@@ -1,3 +1,20 @@
+object-tracker-python
+node_modules/
+logs/
+uploads/
+attachments/
+extensions/
+*.sqlite
+*.sql
+yarn*.*
+package-lock.json
+.DS_Store
+.vscode
+platforms
+config.*.js
+!**/config/config.*.js
+!**/installer/config.*.js
+
 # Logs
 logs
 *.log
